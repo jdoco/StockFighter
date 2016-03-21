@@ -1,0 +1,1000 @@
+{ filename: 'JS42082796.txt',
+  avgPrice: 30.768479096308372,
+  quantityOwned: -8587,
+  balance: 26420893,
+  buyCount: 186,
+  sellCount: 62,
+  buyQuantity: 181817,
+  sellQuantity: 190404 }
+
+
+{ filename: 'MHP49196778.txt',
+  avgPrice: 25.007382134553882,
+  quantityOwned: 288613,
+  balance: -721745558,
+  buyCount: 442,
+  sellCount: 488,
+  buyQuantity: 1228075,
+  sellQuantity: 939462 }
+
+
+{ filename: 'SAT4058944.txt',
+  avgPrice: 21.82039756157444,
+  quantityOwned: -166993,
+  balance: 364385365,
+  buyCount: 665,
+  sellCount: 1109,
+  buyQuantity: 1788924,
+  sellQuantity: 1955917 }
+
+
+{ filename: 'PPB58940924.txt',
+  avgPrice: 21.23841530054645,
+  quantityOwned: 915,
+  balance: -1943315,
+  buyCount: 45,
+  sellCount: 0,
+  buyQuantity: 915,
+  sellQuantity: 0 }
+
+
+{ filename: 'FEB52388831.txt',
+  avgPrice: 21.200806100217864,
+  quantityOwned: 918,
+  balance: -1946234,
+  buyCount: 45,
+  sellCount: 0,
+  buyQuantity: 918,
+  sellQuantity: 0 }
+
+
+{ filename: 'LFS15156268.txt',
+  avgPrice: 21.184207650273223,
+  quantityOwned: 915,
+  balance: -1938355,
+  buyCount: 45,
+  sellCount: 0,
+  buyQuantity: 915,
+  sellQuantity: 0 }
+
+
+{ filename: 'BAH21713909.txt',
+  avgPrice: 21.180660066006602,
+  quantityOwned: 909,
+  balance: -1925322,
+  buyCount: 45,
+  sellCount: 0,
+  buyQuantity: 909,
+  sellQuantity: 0 }
+
+
+{ filename: 'BB82782718.txt',
+  avgPrice: 21.17884488448845,
+  quantityOwned: 909,
+  balance: -1925157,
+  buyCount: 45,
+  sellCount: 0,
+  buyQuantity: 909,
+  sellQuantity: 0 }
+
+
+{ filename: 'CDS33292533.txt',
+  avgPrice: 21.16934065934066,
+  quantityOwned: 910,
+  balance: -1926410,
+  buyCount: 45,
+  sellCount: 0,
+  buyQuantity: 910,
+  sellQuantity: 0 }
+
+
+{ filename: 'AAF69817051.txt',
+  avgPrice: 21.164945054945054,
+  quantityOwned: 910,
+  balance: -1926010,
+  buyCount: 45,
+  sellCount: 0,
+  buyQuantity: 910,
+  sellQuantity: 0 }
+
+
+{ filename: 'STB49944885.txt',
+  avgPrice: 21.15129925452609,
+  quantityOwned: 939,
+  balance: -1986107,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'WRS89106794.txt',
+  avgPrice: 21.143631522896698,
+  quantityOwned: 939,
+  balance: -1985387,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'RTS3872729.txt',
+  avgPrice: 21.141927582534613,
+  quantityOwned: 939,
+  balance: -1985227,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'WAS7506733.txt',
+  avgPrice: 21.12062832800852,
+  quantityOwned: 939,
+  balance: -1983227,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'FPB74017621.txt',
+  avgPrice: 21.11780748663102,
+  quantityOwned: 935,
+  balance: -1974515,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'DBS94136708.txt',
+  avgPrice: 21.113801916932907,
+  quantityOwned: 939,
+  balance: -1982586,
+  buyCount: 47,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'EBS74156055.txt',
+  avgPrice: 21.105213675213676,
+  quantityOwned: 936,
+  balance: -1975448,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 936,
+  sellQuantity: 0 }
+
+
+{ filename: 'LAP91066657.txt',
+  avgPrice: 21.10326203208556,
+  quantityOwned: 935,
+  balance: -1973155,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'OMB54406094.txt',
+  avgPrice: 21.098342245989304,
+  quantityOwned: 935,
+  balance: -1972695,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'OWB38153487.txt',
+  avgPrice: 21.096559139784944,
+  quantityOwned: 930,
+  balance: -1961980,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 930,
+  sellQuantity: 0 }
+
+
+{ filename: 'TCY16174343.txt',
+  avgPrice: 21.096451612903227,
+  quantityOwned: 930,
+  balance: -1961970,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 930,
+  sellQuantity: 0 }
+
+
+{ filename: 'ST41857386.txt',
+  avgPrice: 21.093404255319147,
+  quantityOwned: 940,
+  balance: -1982780,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 940,
+  sellQuantity: 0 }
+
+
+{ filename: 'SBB55300488.txt',
+  avgPrice: 21.092258064516127,
+  quantityOwned: 930,
+  balance: -1961580,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 930,
+  sellQuantity: 0 }
+
+
+{ filename: 'MBB36966785.txt',
+  avgPrice: 21.090860215053763,
+  quantityOwned: 930,
+  balance: -1961450,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 930,
+  sellQuantity: 0 }
+
+
+{ filename: 'TB80214136.txt',
+  avgPrice: 21.082985074626865,
+  quantityOwned: 938,
+  balance: -1977584,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 938,
+  sellQuantity: 0 }
+
+
+{ filename: 'SBB36067322.txt',
+  avgPrice: 21.0824219590958,
+  quantityOwned: 929,
+  balance: -1958557,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 929,
+  sellQuantity: 0 }
+
+
+{ filename: 'RFB59018873.txt',
+  avgPrice: 21.08235042735043,
+  quantityOwned: 936,
+  balance: -1973308,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 936,
+  sellQuantity: 0 }
+
+
+{ filename: 'LAC31865681.txt',
+  avgPrice: 21.081863684771033,
+  quantityOwned: 939,
+  balance: -1979587,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'CAI318986.txt',
+  avgPrice: 21.081229946524065,
+  quantityOwned: 935,
+  balance: -1971095,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'YAW41791166.txt',
+  avgPrice: 21.076310160427806,
+  quantityOwned: 935,
+  balance: -1970635,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'PAJ6429134.txt',
+  avgPrice: 21.075473908413205,
+  quantityOwned: 939,
+  balance: -1978987,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'LAW8949982.txt',
+  avgPrice: 21.075299145299144,
+  quantityOwned: 936,
+  balance: -1972648,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 936,
+  sellQuantity: 0 }
+
+
+{ filename: 'HCH28084706.txt',
+  avgPrice: 21.075106837606835,
+  quantityOwned: 936,
+  balance: -1972630,
+  buyCount: 47,
+  sellCount: 0,
+  buyQuantity: 936,
+  sellQuantity: 0 }
+
+
+{ filename: 'EFB63563292.txt',
+  avgPrice: 21.07164004259851,
+  quantityOwned: 939,
+  balance: -1978627,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'BB13191226.txt',
+  avgPrice: 21.071612903225805,
+  quantityOwned: 930,
+  balance: -1959660,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 930,
+  sellQuantity: 0 }
+
+
+{ filename: 'GAR22077856.txt',
+  avgPrice: 21.071452991452993,
+  quantityOwned: 936,
+  balance: -1972288,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 936,
+  sellQuantity: 0 }
+
+
+{ filename: 'BH30716165.txt',
+  avgPrice: 21.068445154419596,
+  quantityOwned: 939,
+  balance: -1978327,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'MDB82666818.txt',
+  avgPrice: 21.068445154419596,
+  quantityOwned: 939,
+  balance: -1978327,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'SMS61949001.txt',
+  avgPrice: 21.06625668449198,
+  quantityOwned: 935,
+  balance: -1969695,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'HAY19890362.txt',
+  avgPrice: 21.066042780748663,
+  quantityOwned: 935,
+  balance: -1969675,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'PAH8663598.txt',
+  avgPrice: 21.063655913978497,
+  quantityOwned: 930,
+  balance: -1958920,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 930,
+  sellQuantity: 0 }
+
+
+{ filename: 'WLS47753395.txt',
+  avgPrice: 21.06311229946524,
+  quantityOwned: 935,
+  balance: -1969401,
+  buyCount: 47,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'MS73929264.txt',
+  avgPrice: 21.062428115015972,
+  quantityOwned: 939,
+  balance: -1977762,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'MS35651035.txt',
+  avgPrice: 21.06221512247071,
+  quantityOwned: 939,
+  balance: -1977742,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'SR56470652.txt',
+  avgPrice: 21.062089552238806,
+  quantityOwned: 938,
+  balance: -1975624,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 938,
+  sellQuantity: 0 }
+
+
+{ filename: 'HFW54810513.txt',
+  avgPrice: 21.061190727081136,
+  quantityOwned: 949,
+  balance: -1998707,
+  buyCount: 47,
+  sellCount: 0,
+  buyQuantity: 949,
+  sellQuantity: 0 }
+
+
+{ filename: 'CMS17851640.txt',
+  avgPrice: 21.060481283422458,
+  quantityOwned: 935,
+  balance: -1969155,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'OFB24083743.txt',
+  avgPrice: 21.059499467518634,
+  quantityOwned: 939,
+  balance: -1977487,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'RRB67022266.txt',
+  avgPrice: 21.059105263157896,
+  quantityOwned: 950,
+  balance: -2000615,
+  buyCount: 47,
+  sellCount: 0,
+  buyQuantity: 950,
+  sellQuantity: 0 }
+
+
+{ filename: 'HAJ43736913.txt',
+  avgPrice: 21.058387096774194,
+  quantityOwned: 930,
+  balance: -1958430,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 930,
+  sellQuantity: 0 }
+
+
+{ filename: 'BMB5597925.txt',
+  avgPrice: 21.054491978609626,
+  quantityOwned: 935,
+  balance: -1968595,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'PAP56740350.txt',
+  avgPrice: 21.053015873015873,
+  quantityOwned: 945,
+  balance: -1989510,
+  buyCount: 47,
+  sellCount: 0,
+  buyQuantity: 945,
+  sellQuantity: 0 }
+
+
+{ filename: 'BB81275059.txt',
+  avgPrice: 21.052445141065828,
+  quantityOwned: 957,
+  balance: -2014719,
+  buyCount: 47,
+  sellCount: 0,
+  buyQuantity: 957,
+  sellQuantity: 0 }
+
+
+{ filename: 'SA69078584.txt',
+  avgPrice: 21.050525187566986,
+  quantityOwned: 933,
+  balance: -1964014,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 933,
+  sellQuantity: 0 }
+
+
+{ filename: 'MIB60685072.txt',
+  avgPrice: 21.04982851018221,
+  quantityOwned: 933,
+  balance: -1963949,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 933,
+  sellQuantity: 0 }
+
+
+{ filename: 'FAB69215509.txt',
+  avgPrice: 21.04850267379679,
+  quantityOwned: 935,
+  balance: -1968035,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'WS45816360.txt',
+  avgPrice: 21.04837060702875,
+  quantityOwned: 939,
+  balance: -1976442,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'TTB5307438.txt',
+  avgPrice: 21.048064516129035,
+  quantityOwned: 930,
+  balance: -1957470,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 930,
+  sellQuantity: 0 }
+
+
+{ filename: 'SAW65445281.txt',
+  avgPrice: 21.0475935828877,
+  quantityOwned: 935,
+  balance: -1967950,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'DMI40517081.txt',
+  avgPrice: 21.046827438370844,
+  quantityOwned: 933,
+  balance: -1963669,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 933,
+  sellQuantity: 0 }
+
+
+{ filename: 'IFS92126944.txt',
+  avgPrice: 21.04407249466951,
+  quantityOwned: 938,
+  balance: -1973934,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 938,
+  sellQuantity: 0 }
+
+
+{ filename: 'BW79435139.txt',
+  avgPrice: 21.043612004287244,
+  quantityOwned: 933,
+  balance: -1963369,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 933,
+  sellQuantity: 0 }
+
+
+{ filename: 'WAM8555930.txt',
+  avgPrice: 21.040320855614976,
+  quantityOwned: 935,
+  balance: -1967270,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'WAH22385588.txt',
+  avgPrice: 21.03989247311828,
+  quantityOwned: 930,
+  balance: -1956710,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 930,
+  sellQuantity: 0 }
+
+
+{ filename: 'YAW63589570.txt',
+  avgPrice: 21.039637912673058,
+  quantityOwned: 939,
+  balance: -1975622,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 939,
+  sellQuantity: 0 }
+
+
+{ filename: 'STS15591868.txt',
+  avgPrice: 21.037692307692307,
+  quantityOwned: 936,
+  balance: -1969128,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 936,
+  sellQuantity: 0 }
+
+
+{ filename: 'BJL9931794.txt',
+  avgPrice: 21.036620021528528,
+  quantityOwned: 929,
+  balance: -1954302,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 929,
+  sellQuantity: 0 }
+
+
+{ filename: 'MDB5600528.txt',
+  avgPrice: 21.03576923076923,
+  quantityOwned: 936,
+  balance: -1968948,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 936,
+  sellQuantity: 0 }
+
+
+{ filename: 'CAW13315649.txt',
+  avgPrice: 21.03021505376344,
+  quantityOwned: 930,
+  balance: -1955810,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 930,
+  sellQuantity: 0 }
+
+
+{ filename: 'BJ89695012.txt',
+  avgPrice: 21.01733905579399,
+  quantityOwned: 932,
+  balance: -1958816,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 932,
+  sellQuantity: 0 }
+
+
+{ filename: 'HAH51246207.txt',
+  avgPrice: 21.011253951527923,
+  quantityOwned: 949,
+  balance: -1993968,
+  buyCount: 47,
+  sellCount: 0,
+  buyQuantity: 949,
+  sellQuantity: 0 }
+
+
+{ filename: 'IIS61413316.txt',
+  avgPrice: 21.008449197860966,
+  quantityOwned: 935,
+  balance: -1964290,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'RHP17397031.txt',
+  avgPrice: 21.003978494623656,
+  quantityOwned: 930,
+  balance: -1953370,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 930,
+  sellQuantity: 0 }
+
+
+{ filename: 'PBB79556008.txt',
+  avgPrice: 20.99918542336549,
+  quantityOwned: 933,
+  balance: -1959224,
+  buyCount: 47,
+  sellCount: 0,
+  buyQuantity: 933,
+  sellQuantity: 0 }
+
+
+{ filename: 'RS89591209.txt',
+  avgPrice: 20.998877005347595,
+  quantityOwned: 935,
+  balance: -1963395,
+  buyCount: 46,
+  sellCount: 0,
+  buyQuantity: 935,
+  sellQuantity: 0 }
+
+
+{ filename: 'AAF62547052.txt',
+  avgPrice: 20.581879287644654,
+  quantityOwned: 14431,
+  balance: -29701710,
+  buyCount: 250,
+  sellCount: 268,
+  buyQuantity: 259123,
+  sellQuantity: 244692 }
+
+
+{ filename: 'DFS25058446.txt',
+  avgPrice: 20.17703960966955,
+  quantityOwned: -112725,
+  balance: 227445679,
+  buyCount: 199,
+  sellCount: 214,
+  buyQuantity: 475014,
+  sellQuantity: 587739 }
+
+
+{ filename: 'BY51982217.txt',
+  avgPrice: 19.60107158995546,
+  quantityOwned: 15491,
+  balance: -30364020,
+  buyCount: 256,
+  sellCount: 268,
+  buyQuantity: 261021,
+  sellQuantity: 245530 }
+
+
+{ filename: 'IMS21772037.txt',
+  avgPrice: 19.441710728670817,
+  quantityOwned: 13655,
+  balance: -26547656,
+  buyCount: 279,
+  sellCount: 254,
+  buyQuantity: 263643,
+  sellQuantity: 249988 }
+
+
+{ filename: 'HAA39266928.txt',
+  avgPrice: 19.41805001825484,
+  quantityOwned: 27390,
+  balance: -53186039,
+  buyCount: 256,
+  sellCount: 284,
+  buyQuantity: 268322,
+  sellQuantity: 240932 }
+
+
+{ filename: 'SAK38089437.txt',
+  avgPrice: 19.089181728150532,
+  quantityOwned: 16156,
+  balance: -30840482,
+  buyCount: 254,
+  sellCount: 277,
+  buyQuantity: 264265,
+  sellQuantity: 248109 }
+
+
+{ filename: 'SMS71639026.txt',
+  avgPrice: 19.047112570275953,
+  quantityOwned: 23301,
+  balance: -44381677,
+  buyCount: 277,
+  sellCount: 256,
+  buyQuantity: 264763,
+  sellQuantity: 241462 }
+
+
+{ filename: 'WAH52787751.txt',
+  avgPrice: 18.980083015589557,
+  quantityOwned: 20719,
+  balance: -39324834,
+  buyCount: 269,
+  sellCount: 278,
+  buyQuantity: 268451,
+  sellQuantity: 247732 }
+
+
+{ filename: 'HAY22868516.txt',
+  avgPrice: 18.963783855129087,
+  quantityOwned: 18941,
+  balance: -35919303,
+  buyCount: 259,
+  sellCount: 273,
+  buyQuantity: 266554,
+  sellQuantity: 247613 }
+
+
+{ filename: 'YB12841794.txt',
+  avgPrice: 18.90923628232326,
+  quantityOwned: 17441,
+  balance: -32979599,
+  buyCount: 269,
+  sellCount: 246,
+  buyQuantity: 256905,
+  sellQuantity: 239464 }
+
+
+{ filename: 'JRR25241395.txt',
+  avgPrice: 18.83599470453725,
+  quantityOwned: 16618,
+  balance: -31301656,
+  buyCount: 274,
+  sellCount: 259,
+  buyQuantity: 259020,
+  sellQuantity: 242402 }
+
+
+{ filename: 'MMB76516958.txt',
+  avgPrice: 18.706670942912123,
+  quantityOwned: 21826,
+  balance: -40829180,
+  buyCount: 252,
+  sellCount: 281,
+  buyQuantity: 268413,
+  sellQuantity: 246587 }
+
+
+{ filename: 'BBB23617162.txt',
+  avgPrice: 18.67840237676793,
+  quantityOwned: 11949,
+  balance: -22318823,
+  buyCount: 261,
+  sellCount: 280,
+  buyQuantity: 269843,
+  sellQuantity: 257894 }
+
+
+{ filename: 'DAS14667071.txt',
+  avgPrice: 18.46804933058208,
+  quantityOwned: 20839,
+  balance: -38485568,
+  buyCount: 261,
+  sellCount: 270,
+  buyQuantity: 278058,
+  sellQuantity: 257219 }
+
+
+{ filename: 'PB16406060.txt',
+  avgPrice: 18.409449943036172,
+  quantityOwned: 28088,
+  balance: -51708463,
+  buyCount: 264,
+  sellCount: 248,
+  buyQuantity: 270661,
+  sellQuantity: 242573 }
+
+
+{ filename: 'MLB24734559.txt',
+  avgPrice: 18.274411964649897,
+  quantityOwned: 13239,
+  balance: -24193494,
+  buyCount: 273,
+  sellCount: 247,
+  buyQuantity: 256447,
+  sellQuantity: 243208 }
+
+
+{ filename: 'PLB76639559.txt',
+  avgPrice: 18.264026646151695,
+  quantityOwned: 28597,
+  balance: -52229637,
+  buyCount: 256,
+  sellCount: 281,
+  buyQuantity: 274726,
+  sellQuantity: 246129 }
+
+
+{ filename: 'MTL16738160.txt',
+  avgPrice: 18.21909441233141,
+  quantityOwned: 16089,
+  balance: -29312701,
+  buyCount: 283,
+  sellCount: 254,
+  buyQuantity: 270418,
+  sellQuantity: 254329 }
+
+
+{ filename: 'KYL18499300.txt',
+  avgPrice: 18.19494045247266,
+  quantityOwned: 22587,
+  balance: -41096912,
+  buyCount: 256,
+  sellCount: 287,
+  buyQuantity: 280042,
+  sellQuantity: 257455 }
+
+
+{ filename: 'BS15272959.txt',
+  avgPrice: 18.14755462724936,
+  quantityOwned: 12448,
+  balance: -22590076,
+  buyCount: 264,
+  sellCount: 274,
+  buyQuantity: 251869,
+  sellQuantity: 239421 }
+
+
+{ filename: 'RES77252303.txt',
+  avgPrice: 17.687348578491964,
+  quantityOwned: 16180,
+  balance: -28618130,
+  buyCount: 250,
+  sellCount: 260,
+  buyQuantity: 266876,
+  sellQuantity: 250696 }
+
+
+{ filename: 'PAP35041280.txt',
+  avgPrice: 17.531764357106557,
+  quantityOwned: 11806,
+  balance: -20698001,
+  buyCount: 241,
+  sellCount: 288,
+  buyQuantity: 257341,
+  sellQuantity: 245535 }
+
+
+{ filename: 'HAE69493433.txt',
+  avgPrice: 17.141092115488075,
+  quantityOwned: 16729,
+  balance: -28675333,
+  buyCount: 267,
+  sellCount: 272,
+  buyQuantity: 265127,
+  sellQuantity: 248398 }
+
+
+{ filename: 'SB1928840.txt',
+  avgPrice: 15.902235900372174,
+  quantityOwned: 6986,
+  balance: -11109302,
+  buyCount: 252,
+  sellCount: 270,
+  buyQuantity: 252629,
+  sellQuantity: 245643 }
+
+
+{ filename: 'WB48429215.txt',
+  avgPrice: 15.885785370708243,
+  quantityOwned: 12058,
+  balance: -19155080,
+  buyCount: 247,
+  sellCount: 271,
+  buyQuantity: 249605,
+  sellQuantity: 237547 }
+
+

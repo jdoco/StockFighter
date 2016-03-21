@@ -1,0 +1,600 @@
+{ filename: 'BAH21713909.txt',
+  avgGap: 54547.11363636364,
+  maxGap: 179040,
+  minGap: 342 }
+
+
+{ filename: 'BB82782718.txt',
+  avgGap: 54545.77272727273,
+  maxGap: 179010,
+  minGap: 4613 }
+
+
+{ filename: 'FEB52388831.txt',
+  avgGap: 54545.204545454544,
+  maxGap: 178914,
+  minGap: 4694 }
+
+
+{ filename: 'AAF69817051.txt',
+  avgGap: 54542.25,
+  maxGap: 178956,
+  minGap: 4697 }
+
+
+{ filename: 'LFS15156268.txt',
+  avgGap: 54542.11363636364,
+  maxGap: 179112,
+  minGap: 212 }
+
+
+{ filename: 'CDS33292533.txt',
+  avgGap: 54538.931818181816,
+  maxGap: 178816,
+  minGap: 261 }
+
+
+{ filename: 'PPB58940924.txt',
+  avgGap: 54538.61363636364,
+  maxGap: 178907,
+  minGap: 4669 }
+
+
+{ filename: 'TB80214136.txt',
+  avgGap: 53445.46666666667,
+  maxGap: 179185,
+  minGap: 3948 }
+
+
+{ filename: 'WAM8555930.txt',
+  avgGap: 53445.11111111111,
+  maxGap: 179131,
+  minGap: 3999 }
+
+
+{ filename: 'RFB59018873.txt',
+  avgGap: 53444.8,
+  maxGap: 179131,
+  minGap: 3903 }
+
+
+{ filename: 'SA69078584.txt',
+  avgGap: 53444.4,
+  maxGap: 179172,
+  minGap: 4029 }
+
+
+{ filename: 'OWB38153487.txt',
+  avgGap: 53443.955555555556,
+  maxGap: 179269,
+  minGap: 4232 }
+
+
+{ filename: 'IIS61413316.txt',
+  avgGap: 53443.666666666664,
+  maxGap: 179144,
+  minGap: 4344 }
+
+
+{ filename: 'MS73929264.txt',
+  avgGap: 53443.64444444444,
+  maxGap: 179201,
+  minGap: 3750 }
+
+
+{ filename: 'IFS92126944.txt',
+  avgGap: 53443.26666666667,
+  maxGap: 179133,
+  minGap: 4261 }
+
+
+{ filename: 'SAW65445281.txt',
+  avgGap: 53443.26666666667,
+  maxGap: 179050,
+  minGap: 4019 }
+
+
+{ filename: 'OFB24083743.txt',
+  avgGap: 53443.15555555555,
+  maxGap: 178987,
+  minGap: 4193 }
+
+
+{ filename: 'LAC31865681.txt',
+  avgGap: 53442.91111111111,
+  maxGap: 179026,
+  minGap: 4149 }
+
+
+{ filename: 'BH30716165.txt',
+  avgGap: 53442.822222222225,
+  maxGap: 179008,
+  minGap: 4181 }
+
+
+{ filename: 'RHP17397031.txt',
+  avgGap: 53442.62222222222,
+  maxGap: 179102,
+  minGap: 4200 }
+
+
+{ filename: 'PAJ6429134.txt',
+  avgGap: 53442.62222222222,
+  maxGap: 178971,
+  minGap: 4157 }
+
+
+{ filename: 'LAP91066657.txt',
+  avgGap: 53442.48888888889,
+  maxGap: 178925,
+  minGap: 4659 }
+
+
+{ filename: 'YAW63589570.txt',
+  avgGap: 53442.35555555556,
+  maxGap: 179195,
+  minGap: 4241 }
+
+
+{ filename: 'PAH8663598.txt',
+  avgGap: 53442.311111111114,
+  maxGap: 179126,
+  minGap: 4087 }
+
+
+{ filename: 'RS89591209.txt',
+  avgGap: 53442.24444444444,
+  maxGap: 179095,
+  minGap: 3737 }
+
+
+{ filename: 'MDB82666818.txt',
+  avgGap: 53442.177777777775,
+  maxGap: 179088,
+  minGap: 3973 }
+
+
+{ filename: 'MIB60685072.txt',
+  avgGap: 53442.11111111111,
+  maxGap: 179095,
+  minGap: 3993 }
+
+
+{ filename: 'WAH22385588.txt',
+  avgGap: 53441.955555555556,
+  maxGap: 178960,
+  minGap: 4178 }
+
+
+{ filename: 'DMI40517081.txt',
+  avgGap: 53441.955555555556,
+  maxGap: 178935,
+  minGap: 4214 }
+
+
+{ filename: 'SBB55300488.txt',
+  avgGap: 53441.933333333334,
+  maxGap: 179240,
+  minGap: 4031 }
+
+
+{ filename: 'BB13191226.txt',
+  avgGap: 53441.62222222222,
+  maxGap: 179186,
+  minGap: 4006 }
+
+
+{ filename: 'YAW41791166.txt',
+  avgGap: 53441.53333333333,
+  maxGap: 179045,
+  minGap: 3949 }
+
+
+{ filename: 'HAY19890362.txt',
+  avgGap: 53441.48888888889,
+  maxGap: 178936,
+  minGap: 4273 }
+
+
+{ filename: 'WS45816360.txt',
+  avgGap: 53441.42222222222,
+  maxGap: 179247,
+  minGap: 4361 }
+
+
+{ filename: 'BJL9931794.txt',
+  avgGap: 53441.28888888889,
+  maxGap: 179222,
+  minGap: 4302 }
+
+
+{ filename: 'SBB36067322.txt',
+  avgGap: 53440.933333333334,
+  maxGap: 178984,
+  minGap: 4694 }
+
+
+{ filename: 'MS35651035.txt',
+  avgGap: 53440.688888888886,
+  maxGap: 179211,
+  minGap: 3771 }
+
+
+{ filename: 'BJ89695012.txt',
+  avgGap: 53440.2,
+  maxGap: 178925,
+  minGap: 4259 }
+
+
+{ filename: 'WRS89106794.txt',
+  avgGap: 53440.2,
+  maxGap: 178972,
+  minGap: 4674 }
+
+
+{ filename: 'TTB5307438.txt',
+  avgGap: 53440.15555555555,
+  maxGap: 178970,
+  minGap: 4187 }
+
+
+{ filename: 'CMS17851640.txt',
+  avgGap: 53439.97777777778,
+  maxGap: 178994,
+  minGap: 4204 }
+
+
+{ filename: 'SR56470652.txt',
+  avgGap: 53439.8,
+  maxGap: 179114,
+  minGap: 4275 }
+
+
+{ filename: 'EBS74156055.txt',
+  avgGap: 53439.71111111111,
+  maxGap: 179039,
+  minGap: 4335 }
+
+
+{ filename: 'LAW8949982.txt',
+  avgGap: 53439.71111111111,
+  maxGap: 179069,
+  minGap: 4057 }
+
+
+{ filename: 'CAW13315649.txt',
+  avgGap: 53439.62222222222,
+  maxGap: 179026,
+  minGap: 3743 }
+
+
+{ filename: 'SMS61949001.txt',
+  avgGap: 53439.24444444444,
+  maxGap: 179047,
+  minGap: 4065 }
+
+
+{ filename: 'MDB5600528.txt',
+  avgGap: 53439.24444444444,
+  maxGap: 179011,
+  minGap: 4309 }
+
+
+{ filename: 'CAI318986.txt',
+  avgGap: 53438.73333333333,
+  maxGap: 179047,
+  minGap: 3919 }
+
+
+{ filename: 'WAS7506733.txt',
+  avgGap: 53438.311111111114,
+  maxGap: 178963,
+  minGap: 4254 }
+
+
+{ filename: 'BW79435139.txt',
+  avgGap: 53438.2,
+  maxGap: 178772,
+  minGap: 4201 }
+
+
+{ filename: 'OMB54406094.txt',
+  avgGap: 53437.97777777778,
+  maxGap: 178894,
+  minGap: 4311 }
+
+
+{ filename: 'ST41857386.txt',
+  avgGap: 53437.77777777778,
+  maxGap: 178967,
+  minGap: 4295 }
+
+
+{ filename: 'HAJ43736913.txt',
+  avgGap: 53437.71111111111,
+  maxGap: 178962,
+  minGap: 4106 }
+
+
+{ filename: 'STS15591868.txt',
+  avgGap: 53437.666666666664,
+  maxGap: 179045,
+  minGap: 4172 }
+
+
+{ filename: 'TCY16174343.txt',
+  avgGap: 53437.64444444444,
+  maxGap: 178981,
+  minGap: 4654 }
+
+
+{ filename: 'RTS3872729.txt',
+  avgGap: 53437.35555555556,
+  maxGap: 178889,
+  minGap: 4117 }
+
+
+{ filename: 'EFB63563292.txt',
+  avgGap: 53437.177777777775,
+  maxGap: 179003,
+  minGap: 4024 }
+
+
+{ filename: 'GAR22077856.txt',
+  avgGap: 53436.37777777778,
+  maxGap: 178850,
+  minGap: 4277 }
+
+
+{ filename: 'FAB69215509.txt',
+  avgGap: 53435.35555555556,
+  maxGap: 178878,
+  minGap: 4075 }
+
+
+{ filename: 'MBB36966785.txt',
+  avgGap: 53435.177777777775,
+  maxGap: 178823,
+  minGap: 4703 }
+
+
+{ filename: 'BMB5597925.txt',
+  avgGap: 53435.15555555555,
+  maxGap: 179000,
+  minGap: 3880 }
+
+
+{ filename: 'FPB74017621.txt',
+  avgGap: 53432.84444444445,
+  maxGap: 178885,
+  minGap: 4082 }
+
+
+{ filename: 'STB49944885.txt',
+  avgGap: 53432.666666666664,
+  maxGap: 178725,
+  minGap: 4660 }
+
+
+{ filename: 'PAP56740350.txt',
+  avgGap: 52280.54347826087,
+  maxGap: 179244,
+  minGap: 0 }
+
+
+{ filename: 'DBS94136708.txt',
+  avgGap: 52278.97826086957,
+  maxGap: 179216,
+  minGap: 0 }
+
+
+{ filename: 'PBB79556008.txt',
+  avgGap: 52278.45652173913,
+  maxGap: 179044,
+  minGap: 0 }
+
+
+{ filename: 'HFW54810513.txt',
+  avgGap: 52277.63043478261,
+  maxGap: 179126,
+  minGap: 0 }
+
+
+{ filename: 'BB81275059.txt',
+  avgGap: 52275.17391304348,
+  maxGap: 178957,
+  minGap: 0 }
+
+
+{ filename: 'RRB67022266.txt',
+  avgGap: 52274.782608695656,
+  maxGap: 178945,
+  minGap: 0 }
+
+
+{ filename: 'HCH28084706.txt',
+  avgGap: 52274.52173913043,
+  maxGap: 178846,
+  minGap: 0 }
+
+
+{ filename: 'WLS47753395.txt',
+  avgGap: 52270.086956521736,
+  maxGap: 178711,
+  minGap: 0 }
+
+
+{ filename: 'HAH51246207.txt',
+  avgGap: 52199.45652173913,
+  maxGap: 175485,
+  minGap: 0 }
+
+
+{ filename: 'JS42082796.txt',
+  avgGap: 9620,
+  maxGap: 80229,
+  minGap: 0 }
+
+
+{ filename: 'PB16406060.txt',
+  avgGap: 4678.908023483366,
+  maxGap: 10134,
+  minGap: 0 }
+
+
+{ filename: 'RES77252303.txt',
+  avgGap: 4657.968565815324,
+  maxGap: 10048,
+  minGap: 0 }
+
+
+{ filename: 'SB1928840.txt',
+  avgGap: 4646.698656429942,
+  maxGap: 10050,
+  minGap: 0 }
+
+
+{ filename: 'SAK38089437.txt',
+  avgGap: 4643.226415094339,
+  maxGap: 10199,
+  minGap: 0 }
+
+
+{ filename: 'BY51982217.txt',
+  avgGap: 4628.611854684513,
+  maxGap: 10076,
+  minGap: 0 }
+
+
+{ filename: 'SMS71639026.txt',
+  avgGap: 4625.977443609023,
+  maxGap: 14973,
+  minGap: 0 }
+
+
+{ filename: 'JRR25241395.txt',
+  avgGap: 4625.971804511279,
+  maxGap: 10101,
+  minGap: 0 }
+
+
+{ filename: 'IMS21772037.txt',
+  avgGap: 4625.875939849624,
+  maxGap: 10084,
+  minGap: 0 }
+
+
+{ filename: 'WB48429215.txt',
+  avgGap: 4614.646034816247,
+  maxGap: 10677,
+  minGap: 0 }
+
+
+{ filename: 'YB12841794.txt',
+  avgGap: 4602.84046692607,
+  maxGap: 10227,
+  minGap: 0 }
+
+
+{ filename: 'BS15272959.txt',
+  avgGap: 4591.988826815643,
+  maxGap: 10071,
+  minGap: 0 }
+
+
+{ filename: 'MTL16738160.txt',
+  avgGap: 4591.139925373134,
+  maxGap: 9967,
+  minGap: 0 }
+
+
+{ filename: 'MLB24734559.txt',
+  avgGap: 4587.481695568401,
+  maxGap: 10092,
+  minGap: 0 }
+
+
+{ filename: 'AAF62547052.txt',
+  avgGap: 4585.9071566731145,
+  maxGap: 10013,
+  minGap: 0 }
+
+
+{ filename: 'PAP35041280.txt',
+  avgGap: 4584.897727272727,
+  maxGap: 10015,
+  minGap: 0 }
+
+
+{ filename: 'DAS14667071.txt',
+  avgGap: 4577.043396226415,
+  maxGap: 10089,
+  minGap: 0 }
+
+
+{ filename: 'HAA39266928.txt',
+  avgGap: 4565.636363636364,
+  maxGap: 10006,
+  minGap: 0 }
+
+
+{ filename: 'KYL18499300.txt',
+  avgGap: 4540.466789667897,
+  maxGap: 10159,
+  minGap: 0 }
+
+
+{ filename: 'HAE69493433.txt',
+  avgGap: 4527.5724907063195,
+  maxGap: 10111,
+  minGap: 0 }
+
+
+{ filename: 'PLB76639559.txt',
+  avgGap: 4525.9682835820895,
+  maxGap: 10155,
+  minGap: 0 }
+
+
+{ filename: 'WAH52787751.txt',
+  avgGap: 4507.5641025641025,
+  maxGap: 10112,
+  minGap: 0 }
+
+
+{ filename: 'MMB76516958.txt',
+  avgGap: 4466.0093984962405,
+  maxGap: 10101,
+  minGap: 0 }
+
+
+{ filename: 'HAY22868516.txt',
+  avgGap: 4464.9152542372885,
+  maxGap: 10160,
+  minGap: 0 }
+
+
+{ filename: 'BBB23617162.txt',
+  avgGap: 4390.6518518518515,
+  maxGap: 10044,
+  minGap: 0 }
+
+
+{ filename: 'MHP49196778.txt',
+  avgGap: 570.4305705059204,
+  maxGap: 14998,
+  minGap: 0 }
+
+
+{ filename: 'DFS25058446.txt',
+  avgGap: 557.9708737864078,
+  maxGap: 10231,
+  minGap: 0 }
+
+
+{ filename: 'SAT4058944.txt',
+  avgGap: 496.6080090242527,
+  maxGap: 19736,
+  minGap: 0 }
+
+
