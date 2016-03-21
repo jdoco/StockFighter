@@ -15,10 +15,10 @@ The first two things I chose to analyze were prices and timings -- who was makin
 I wrote all the code myself because I wanted to learn ES6 and because I didn't want to expose myself to potential spoilers/hints.
 
 Here are the most important files:
-- StockFighterExchange.js wraps the StockFighter API, with ExchangeClient.js abstracing away some of the low-level HTTP stuff.
-- log_trades.js builds up a set of accounts and hooks up a WebSocket to each one to log its trades
-- analyze_prices.js builds up some basic pricing analysis using the logged trades and spits it out into analysis/prices.txt
-- analyze_trade_times.js does some basic trade timing analysis and writes to analysis/times.txt
+- [StockFighterExchange](StockFighterExchange.js) wraps the StockFighter API, with [ExchangeClient](ExchangeClient.js) abstracing away some of the low-level HTTP stuff.
+- [log_trades](log_trades.js) builds up a set of accounts and hooks up a WebSocket to each one to log its trades
+- [analyze_prices](analyze_prices.js) builds up some basic pricing analysis using the logged trades and spits it out into [analysis/prices.txt](analysis/prices.txt)
+- [analyze_trade_times](analyze_trade_times.js) does some basic trade timing analysis (average time between trades, max time between trades, etc.) and writes to [analysis/times.txt](analysis/times.txt)
 
 ## Analysis
 After about 25 minutes, I ran analyze_prices and analyze_trade_times and then inspected the files manually. Basically I'm looking for an account that has high profits (I use average price as a proxy for profits that worked well enough, but actually calculating profits would have been better, for example by assigning the existing price to any outstanding stocks to get a real 'position'), and that trades with interesting timings. 
