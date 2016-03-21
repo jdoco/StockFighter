@@ -26,6 +26,9 @@ Here are the most important files:
 After about 25 minutes, I ran analyze_prices and analyze_trade_times and then inspected the files manually. Basically I'm looking for an account that has high profits and that trades with interesting timings. (My price analysis was super basic. I use average price per outstanding share (negative or positive) as a proxy for profits. That worked well enough as a quick first stab, but actually calculating profits would have been better, for example by valuing any outstanding shares at whatever the current price was to get a real 'position'.)
 
 The above was enough to find the insider. I also noticed that there were a few clear clusters of bots that the insider doesn't fit into:
--The HFT bots are all obviously the ones with super low average times between trades and very high trade volumes. 
--There are many bots which only ever buy, and do so infrequently. Not sure why; maybe they are Buffett bots? 
--There are some bots which buy and sell relatively frequently but *suck* at it; I'm guessing those are daytraderbots :)
+- The HFT bots are all obviously the ones with super low average times between trades and very high trade volumes. 
+- There are many bots which only ever buy, and do so infrequently. Not sure why; maybe they are Buffett bots? 
+- There are some bots which buy and sell relatively frequently but *suck* at it; I'm guessing those are daytraderbots :)
+
+## Conclusion
+This was so much fun. Thanks for building it! Looking forward to the next set of problems.
