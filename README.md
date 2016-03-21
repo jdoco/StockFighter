@@ -1,6 +1,9 @@
 # StockFighter
 My attempt at solving Making Amends, StockFighter v1's last level
 
+WARNING: SPOILERS AHEAD
+-----
+
 ## First few levels
 I beat the first five levels manually in the browser, by playing market maker. I wasn't intending to do it all manually, but once I got going it turned into a bit of a personal challenge. Maybe everyone does that; I'm not sure. Either way, it was a fun experience! 
 
